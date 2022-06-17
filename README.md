@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Jeanette-Ralph and I am currently enrolled in the UCLA Extension Full-Stack Web Development Bootcamp.
+- 🌋 I graduated from UCLA with a bachelor's degree in Geology, which is where I was introduced to coding. 
 - 👀 I’m interested in working as a software developer, specifically a full-stack developer.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript. 
 <!-- - 💞️ I’m looking to collaborate on front 
