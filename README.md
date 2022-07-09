@@ -2,8 +2,9 @@
 - 🌋 I graduated from UCLA with a bachelor's degree in Geology, which is where I was introduced to coding. 
 - 👀 I’m interested in working as a software developer, specifically a full-stack developer.
 - 🌱 I’m currently learning HTML, CSS, Node.js, and Javascript. 
+- 📫 How to reach me: [jeanette.k.ralph@gmail.com](jeanette.k.ralph@gmail.com)
 <!-- - 💞️ I’m looking to collaborate on front 
-- 📫 How to reach me ... -->
+
 
 <!---
 Jeanette-Ralph/Jeanette-Ralph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
